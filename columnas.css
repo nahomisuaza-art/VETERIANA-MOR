@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#contenedor1{
+	width: 100%;
+	height: 100px;
+	border: 1px solid lightyellow;
+	background-color:#F5AA18;
+}
+#columna1{
+	float:left;
+	height: 100px;
+	width: 200px; 
+}
+#columna2{
+	width: 600px;
+	height: 100px;
+	float: left;
+}
+#columna3{
+	width:200px; 
+	height:100px;
+	float: left;
+	margin-top: 3px;
+}
+p{
+	font-size: 17px;
+	text-align: center;
+	
+
+
+}
+hr{
+	padding-top: 18px;
+	padding-bottom: 18px;
+}
+.mapa{
+	text-align: left;
+	margin-left: 20px;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	background-color: beige;
+	color: black;
+}

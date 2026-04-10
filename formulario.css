@@ -1,0 +1,49 @@
+.formulario{
+	background-color: #EDAA2F;
+	border: 3px solid beige;
+	border-radius: 10px;
+	padding-top: 20px;
+	width: 800px;
+	height: 550px;
+
+
+}
+input{
+	width: 90%;
+	padding: 13px;
+	height:auto;
+}
+label{
+	width: 90%;
+	display: block;
+	text-align: center;
+	font-size: 16px;
+	color: white;
+	border: black;
+
+
+}
+.datos{
+	text-align: center; 
+	font-size:22px;
+	
+
+}
+#button{
+	width: auto;
+	height: auto;
+	background-color: white;
+	margin: 15px;
+
+
+}
+#titulo{
+	text-align: center;
+	font-size: 45px;
+	display: block;
+	margin-bottom: 20px;
+}
+center{
+	padding-top: 70px;
+
+}

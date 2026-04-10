@@ -1,0 +1,48 @@
+.cuadrado{
+	height: 550px;
+	width: 450px;
+	border-radius: 10%;
+	background-color: #EDAA2F;
+	margin: 40px 60px;
+	float: left;
+	display: inline-block;
+	border:1px solid black;
+}
+.img1{
+	border-radius: 50%;
+	border:1px solid black;
+	margin: 20px 0px;
+	
+}
+main p{
+	text-align: justify;
+	font-size: 25px;
+	margin: 12px 35px;
+}
+.info{
+	height: 470px;
+	width: 350px;
+	border-radius: 10%;
+	background-color: #EDAA2F;
+	float: right;
+	margin-right: 70px;
+	margin-top: 40px;
+	display: inline-block;
+	border: 1px solid black;
+
+}
+center{
+	font-size: 40px;
+	margin: 10px 0px;
+}
+
+
+.linea {
+  border-top: 1px solid black;
+  height: 2px;
+  padding: 0;
+  margin: 5px auto 5px auto;
+}
+#text{
+	margin-top: 0px;
+}

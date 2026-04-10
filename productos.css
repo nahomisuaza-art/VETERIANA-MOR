@@ -1,0 +1,39 @@
+.producto1{
+	height: 310px;
+	width: 330px;
+	background-color: #EDAA2F;
+	margin: 30px 90px;
+	display: inline-block;
+	float: left;
+	border-radius: 5%;
+	border:1px solid black;
+}
+.producto2{
+	height: 310px;
+	width: 330px;
+	background-color: #EDAA2F;
+	margin-top: 30px;
+	margin-right: 90px;
+	display: inline-block;
+	float: right;
+	border-radius: 5%;
+	border:1px solid black;
+}
+
+.producto4{
+	height: 310px;
+	width: 330px;
+	background-color:#EDAA2F;
+	margin: auto 160px;
+	display: inline-block;
+	border-radius: 5%;
+	border:1px solid black;
+	}
+.b{
+	margin-top: 10px;
+	border-radius: 15%;
+	border: 2px solid black;
+}
+center{
+	font-size: 25px;
+}

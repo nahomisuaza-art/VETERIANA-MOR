@@ -1,0 +1,41 @@
+.servicio1{
+	width: 800px;
+	height:450px;
+	margin: 100px 40px;
+	border: 2px solid beige;
+	background:  #EDAA2F;
+	display: inline-block;
+}
+.servicio2{
+	width: 800px;
+	height:450px;
+	margin: 100px 40px;
+	border: 2px solid beige;
+	background:  #EDAA2F;
+	display: inline-block;
+
+}
+.servicio3{
+	width: 800px;
+	height:450px;
+	margin: 100px 40px;
+	border: 2px solid beige;
+	background:  #EDAA2F;
+	display: inline-block;
+}
+center{
+	margin-top:45px;
+	color: white;
+	font-size: 45px; 
+	text-align: center;
+
+}
+#pelo{
+	float: center;
+	margin: 15px 15px;
+	border-radius: 25%;
+	border: 2px solid black;
+}
+.lista{
+	display: flex;
+}

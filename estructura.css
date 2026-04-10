@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html{background-color: #DEA035;
+}
+body{
+	width: 1000px;
+	height: 900px;
+	margin: auto;
+	background-color: lightblue;
+	text-align: center;
+
+}
+nav{
+	width: 1000px;
+	height: 30px;
+	background-color: #D6B947;
+	text-align: center;
+}
+header{
+	width: 1000px;
+	height: 150px;
+	background-color: #D4970B;
+	text-align: center;
+}
+
+main{
+	width: 1000px;
+	height: 720px;
+	background-color:#F5C848;
+	text-align: center;
+}
+footer{
+	width: 1000px;
+	height: 100px;
+	background-color:#F5AA18;
+	text-align: center;
+
+}
